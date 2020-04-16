@@ -1,0 +1,6 @@
+
+// solid
+
+single responsability principle
+
+dependency invertion principle
